@@ -1,5 +1,5 @@
 client:
-socat -u tcp-connect:192.168.0.102:6020 - |play -t raw -r 4800 -b 16 -c 1 -e signed-integer -
+socat -u tcp-connect:192.168.0.102:6020 - |play -t raw -r 48000 -b 16 -c 1 -e signed-integer -
 
 server:
 sudo rtl_fm -f 433.954M -M AM -s 200000 -r 48000 | socat -u - tcp-listen:6020
