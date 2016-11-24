@@ -13,3 +13,8 @@ https://de.wikipedia.org/wiki/Puls-Pausen-Modulation
 http://www.pcbheaven.com/wikipages/Pulse_Position_Modulation/
 
 home.wav using d-ppm
+
+Protocol:
+http://www.tfd.hu/tfdhu/files/wsprotocol/auriol_protocol_v20.pdf
+
+
