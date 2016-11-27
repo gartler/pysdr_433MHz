@@ -18,3 +18,5 @@ Protocol:
 http://www.tfd.hu/tfdhu/files/wsprotocol/auriol_protocol_v20.pdf
 
 http://www.vishay.com/docs/80071/dataform.pdf
+
+http://openwebrx.org/bsc-thesis.pdf
