@@ -20,3 +20,5 @@ http://www.tfd.hu/tfdhu/files/wsprotocol/auriol_protocol_v20.pdf
 http://www.vishay.com/docs/80071/dataform.pdf
 
 http://openwebrx.org/bsc-thesis.pdf
+
+https://web.archive.org/web/20140218203903/http://www.codeproject.com/Articles/462525/Simple-HTTP-Server-and-Client-in-Python
