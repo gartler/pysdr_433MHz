@@ -22,3 +22,7 @@ http://www.vishay.com/docs/80071/dataform.pdf
 http://openwebrx.org/bsc-thesis.pdf
 
 https://web.archive.org/web/20140218203903/http://www.codeproject.com/Articles/462525/Simple-HTTP-Server-and-Client-in-Python
+
+http://www.aaronscher.com/wireless_com_SDR/RTL_SDR_AM_spectrum_demod.html
+
+https://www.reddit.com/r/RTLSDR/comments/2w0cvc/iq_data_for_dummies_with_pictures/?st=iw40sy1l&sh=b27ef8d6
