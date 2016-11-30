@@ -28,3 +28,5 @@ http://www.aaronscher.com/wireless_com_SDR/RTL_SDR_AM_spectrum_demod.html
 https://www.reddit.com/r/RTLSDR/comments/2w0cvc/iq_data_for_dummies_with_pictures/?st=iw40sy1l&sh=b27ef8d6
 
 http://blog.sdr.hu/repos/TAPR-DCC-2015-Talk-and-Paper/openwebrx-tapr-dcc-2015-paper.pdf
+
+https://github.com/michelinok/rtl-sdr/ 
