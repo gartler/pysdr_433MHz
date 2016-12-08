@@ -33,4 +33,4 @@ https://github.com/michelinok/rtl-sdr/
 
 https://witestlab.poly.edu/blog/capture-and-decode-fm-radio/
 
-http://cacodaemon.de/index.php?id=5
+ddns bash skript: http://cacodaemon.de/index.php?id=5
